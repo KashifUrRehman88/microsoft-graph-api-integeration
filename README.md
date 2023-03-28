@@ -1,2 +1,6 @@
 # microsoft-graph-api-integeration
-This repository holds a project which uses the Microsoft Graph API to access data on behalf of a user
+
+### Creating a sebservice to integerate with microsoft graph API
+---
+
+**Description:** This repository holds a project which uses the Microsoft Graph API to access data on behalf of a user
